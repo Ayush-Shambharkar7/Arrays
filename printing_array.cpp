@@ -1,3 +1,7 @@
+//Ayush Shambharkar
+//23070123034
+//Aim - to print all the numbers present in the array.
+
 #include<iostream>
 using namespace std;
 int main(){
